@@ -30,7 +30,17 @@ function newShell() {
 
   shells.push(shell);
 }
-
+function aler() {
+  let text;
+  let person = prompt("Please enter your name in the box:","");
+  if (person == null || person == "") {
+    alert("Enter Name")
+  } 
+    text = "WISH YOU A HAPPY NEW YEAR " + person;
+  
+  document.getElementById("msg").innerHTML = text;
+}
+aler();
 function newPass(shell) {
 
   var pasCount = Math.ceil(Math.pow(shell.size, 2) * Math.PI);
