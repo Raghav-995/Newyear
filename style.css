@@ -118,7 +118,7 @@ body {
 .year {
   position: absolute;
   top: 450px;
-  width: 50%;
+  width: 100%;
   text-align: center;
 }
 
@@ -144,13 +144,13 @@ body {
     right: -100px;
   }
   40% {
-    right: 350px;
+    right: 100px;
   }
   90% {
     right: 350px;
   }
   100% {
-    right: 450px;
+    right: 100px;
     color: yellow;
   }
 }
