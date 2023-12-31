@@ -148,10 +148,10 @@ body {
     right: 100px;
   }
   90% {
-    right: 200px;
+    right: 100px;
   }
   100% {
-    right: 100px;
+    right: 200px;
     color: yellow;
   }
 }
