@@ -124,7 +124,7 @@ body {
 }
 
 .year > span {
-  font-size: 100px;
+  font-size: 105px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
   letter-spacing: -12px;
@@ -148,10 +148,10 @@ body {
     right: 100px;
   }
   90% {
-    right: 350px;
+    right: 150px;
   }
   100% {
-    right: 35px;
+    right: 200px;
     color: yellow;
   }
 }
