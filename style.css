@@ -69,7 +69,7 @@ body {
     0% {
         color: #fff;
     }
-    50% {
+    100% {
         color: rgb(247, 0, 255);
     }
 }
@@ -77,7 +77,7 @@ body {
     0% {
         color: #fff;
     }
-    50% {
+    100% {
         color: #00ffc8;
     }
 }
@@ -85,7 +85,7 @@ body {
     0% {
         color: #fff;
     }
-    50% {
+    100% {
         color: #94ff94;
     }
 }
@@ -93,7 +93,7 @@ body {
     0% {
         color: #fff;
     }
-    50% {
+    100% {
         color: yellow;
     }
 }
