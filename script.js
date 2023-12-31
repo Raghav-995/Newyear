@@ -36,7 +36,7 @@ function aler() {
   if (person == null || person == "") {
     alert("Enter Name")
   } 
-    text = "WISH YOU HAPPY NEW YEAR " + person + "from Raghav";
+    text = "WISH YOU HAPPY NEW YEAR " + person + " from Raghav".toUpperCase();
   
   document.getElementById("msg").innerHTML = text;
 }
