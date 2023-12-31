@@ -36,7 +36,7 @@ function aler() {
   if (person == null || person == "") {
     alert("Enter Name")
   } 
-    text = "WISH YOU A HAPPY NEW YEAR " + person;
+    text = "WISH YOU HAPPY NEW YEAR " + person + "from Raghav";
   
   document.getElementById("msg").innerHTML = text;
 }
