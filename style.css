@@ -151,7 +151,7 @@ body {
     right: 150px;
   }
   100% {
-    right: 200px;
+    right: 100px;
     color: yellow;
   }
 }
