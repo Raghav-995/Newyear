@@ -101,7 +101,7 @@ body {
 .old {
   color: #fff;
   position: absolute;
-  top: 0%;
+  top: -200px;
   animation: old_animation 2.5s ease-in-out 4s forwards;
   margin-left: -80px;
 }
@@ -148,7 +148,7 @@ body {
     right: 100px;
   }
   90% {
-    right: 100px;
+    right: 200px;
   }
   100% {
     right: 70px;
