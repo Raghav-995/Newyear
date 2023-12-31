@@ -119,12 +119,12 @@ body {
   position: absolute;
   top: 450px;
   width: 100%;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-right: 100px;
 }
 
 .year > span {
-  font-size: 175px;
+  font-size: 105px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
   letter-spacing: -12px;
