@@ -145,13 +145,13 @@ body {
     right: -100px;
   }
   40% {
-    right: 100px;
+    right: 50px;
   }
   90% {
-    right: 100px;
+    right: 30px;
   }
   100% {
-    right: 10px;
+    right: 200px;
     color: yellow;
   }
 }
