@@ -17,9 +17,10 @@
 
 body {
   background-color: #1a1818;
-  overflow: visible;
+  overflow: hidden;
   height: 100vh;
    margin: 0 auto;
+  position:fixed;
 }
 
 .msg {
